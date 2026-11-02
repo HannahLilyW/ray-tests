@@ -1,0 +1,10 @@
+[project]
+name = "ray-training"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "gym>=0.26.2",
+    "ray[rllib]>=2.59.0",
+]

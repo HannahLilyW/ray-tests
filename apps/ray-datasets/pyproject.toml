@@ -1,0 +1,12 @@
+[project]
+name = "ray-datasets"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "pandas>=3.1.0",
+    "pyarrow>=26.0.0",
+    "ray>=2.59.0",
+    "typing-extensions>=4.16.0",
+]

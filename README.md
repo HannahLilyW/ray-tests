@@ -1,2 +1,2 @@
-# ray-tests
-exploring ray
+Tests made while going through "Learning Ray" book
+

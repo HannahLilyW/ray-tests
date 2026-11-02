@@ -1,0 +1,9 @@
+[project]
+name = "ray-cluster"
+version = "0.1.0"
+description = "Various tests and examples made while learning Ray"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "ray[rllib,serve,tune]>=2.59.0",
+]

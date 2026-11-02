@@ -1,0 +1,2 @@
+- [ ] go through https://docs.ray.io/en/latest/ray-core/walkthrough.html
+- [ ] If you want to understand more about the holistic view of the data science process when building ML applications, Building Machine Learning Powered Applications by Emmanuel Ameisen (O’Reilly) is entirely dedicated to it.
