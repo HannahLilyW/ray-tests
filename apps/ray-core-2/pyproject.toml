@@ -1,0 +1,12 @@
+[project]
+name = "ray-core-2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "ray>=2.60.0",
+]
+
+[tool.pyright]
+typeCheckingLevel = 'basic'
